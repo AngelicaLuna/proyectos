@@ -57,7 +57,13 @@
 
             <label for="usuario"> Usuario: </label>
             <input id="usuario" class="form-control" type="text" name="usuario">
+
+            <label for="contraseña"> Contraseña </label>
+            <input id="contraseña" class="form-control" type="text" name="contraseña">
+
             <button class="btn btn-primary" type="submit"> ENVIAR </button>
+
+
 
             </form >
         </div>

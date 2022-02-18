@@ -8,6 +8,7 @@
 </head>
 <body>
     Nombre: <?php echo $_POST['nombre'] ?> <br>
-
+    Usuario: <?php echo $_POST['usuario'] ?> <br>
+    Contraseña: <?php echo $_POST['contraseña'] ?> <br>
 </body>
 </html>
